@@ -1,0 +1,20 @@
+C:\Users\Blondie\Desktop\Threads\Threads\bin\Debug\Threads.exe.config
+C:\Users\Blondie\Desktop\Threads\Threads\bin\Debug\Threads.exe
+C:\Users\Blondie\Desktop\Threads\Threads\bin\Debug\Threads.pdb
+C:\Users\Blondie\Desktop\Threads\Threads\obj\Debug\Threads.csprojAssemblyReference.cache
+C:\Users\Blondie\Desktop\Threads\Threads\obj\Debug\Threads.Form1.resources
+C:\Users\Blondie\Desktop\Threads\Threads\obj\Debug\Threads.Properties.Resources.resources
+C:\Users\Blondie\Desktop\Threads\Threads\obj\Debug\Threads.csproj.GenerateResource.cache
+C:\Users\Blondie\Desktop\Threads\Threads\obj\Debug\Threads.csproj.CoreCompileInputs.cache
+C:\Users\Blondie\Desktop\Threads\Threads\obj\Debug\Threads.exe
+C:\Users\Blondie\Desktop\Threads\Threads\obj\Debug\Threads.pdb
+F:\NWU 2019\Threads\Threads\bin\Debug\Threads.exe.config
+F:\NWU 2019\Threads\Threads\bin\Debug\Threads.exe
+F:\NWU 2019\Threads\Threads\bin\Debug\Threads.pdb
+F:\NWU 2019\Threads\Threads\obj\Debug\Threads.csprojAssemblyReference.cache
+F:\NWU 2019\Threads\Threads\obj\Debug\Threads.Form1.resources
+F:\NWU 2019\Threads\Threads\obj\Debug\Threads.Properties.Resources.resources
+F:\NWU 2019\Threads\Threads\obj\Debug\Threads.csproj.GenerateResource.cache
+F:\NWU 2019\Threads\Threads\obj\Debug\Threads.csproj.CoreCompileInputs.cache
+F:\NWU 2019\Threads\Threads\obj\Debug\Threads.exe
+F:\NWU 2019\Threads\Threads\obj\Debug\Threads.pdb
